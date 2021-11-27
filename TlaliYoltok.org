@@ -1,0 +1,127 @@
+#+SETUPFILE: ~/Emacs/Org/Config/LaTex.org
+#+TITLE: Tlali Yoltok
+#+SUBTITLE: Suelo Vivo - Proyecto para la concientización y acción sobre la regeneración del suelo en el contexto de las crisis ambientales, alimentarias y de seguridad de la vida en general.
+#+DATE:
+
+* Preámbulo
+
+Sin duda alguna el reto mas importante que enfrenta la humanidad en este momento es el del cambio climático. 
+
+Si bien pudiera percibirse como un problema a largo plazo, las investigaciones mas recientes reconocen que inequívocamente ha sido la acción del hombre la que lo ha provocado y que solamente actuando de manera contundente y expedita, como humanidad, tendremos la posibilidad de remediarlo para poder seguir existiendo en este planeta de manera armónica y sustentable.
+
+Tan urgente es el tema que la Organización Mundial de las Naciones Unidas organiza constantemente reuniones para atenderlo, entre ellas en 2021, la 26 conferencia sobre el cambio climático con el objetivo claro de "unir al mundo para encarar el cambio climático" (COP26)_{[[Cambio Climático]]}. Lamentablemente las naciones no han podido hacer acuerdos claros sobre cuales son las medidas a tomar en conjunto, pero ya no le queda duda a nadie de que hay que actuar y el momento es ahora.
+
+Dentro de los eventos que tomaron lugar en la COP26, la atención a la salud del suelo fue reconocida como tema de crucial importancia y a la vez como uno que no ha recibido la atención que amerita. La ciencia está bien establecida al respecto y los expertos concluyen que no habrá posibilidad de adaptarse y revertir los efectos sobre el ambiente que la humanidad ha provocado, así como atender otros temas de sumo interés para la vida, que también forman parte de la agenda de la ONU, sin incorporar la salud del suelo de forma prioritaria y actuar de inmediato_{[[From the ground up - Debate]]}.
+
+* Introducción
+
+Tlali Yoltoc significa /La Tierra vive/ o /La Tierra está viva/ en lengua Náhuatl.
+
+Hay más organismos vivos en una cucharadita de té de suelo sano, que humanos en el planeta, y son indispensables para que el suelo cumpla su función_{[[A practical approach to improve Soil Health]]}. 
+
+Un suelo vivo es la base de toda la vida en este planeta. Nuestros alimentos, y nosotros mismos por medio de ellos, provenimos del suelo. 
+
+De acuerdo a lo dicho por el científico en suelos Prof. Rattan Lal_{[[Rattan Lal]]}, Director del Centro de Manejo y Secuestro de Carbón de la Escuela del Ambiente y Recursos Naturales de la Universidad Estatal de Ohio, 7 de las 17 metas de la ONU para el desarrollo sustentable dependen esencialmente del suelo: 1) Fin de la pobreza, 2) Fin del hambre, 3) Salud y bienestar, 6) Agua limpia y saneamiento, 7) energía limpia y accesible, 13) acción frente al cambio climático y 15) la vida sobre la tierra_{[[From the ground up - Debate]]}; sin duda otras de las metas como podrían ser la 8) trabajo honrado y crecimiento económico, 11) ciudades y comunidades sustentables y 14) la vida bajo el agua tienen relación importante con las prácticas para contar con un suelo saludable.
+
+Un suelo vivo:
+
+- Es factor indispensable en la solución al problema del calentamiento global que hemos causado_{[[Cambio Climático]]} pues captura el dióxido de carbono que generamos y lo vuelve parte de la materia orgánica que sustenta la vida del mismo suelo y la del resto del planeta. El suelo contiene mas carbón que toda la atmósfera y la vegetación del planeta combinada_{[[Soil Carbon Storage]]}.
+
+- Es fundamental para el ciclo del agua pues mejora la retención y calidad del vital líquido para cada ecosistema que lo recibe: Mantiene la humedad y los nutrientes necesarios en los ecosistemas terrestres y por lo mismo previene la contaminación de los cuerpos de agua que son gravemente afectados cuando reciben éstos en exceso_{[[Healthy soil, clean water]]}.
+
+- Tiene un rol protagónico en la purificación del aire que respiramos: Los minerales y microbios del suelo son responsables de filtrar, amortiguar, degradar, inmovilizar y neutralizar materia orgánica e inorgánica generada por la industria y las ciudades_{[[What Soil Does - clean air]]}.
+  
+- Provee de alimento que sostiene la vida y la salud de los humanos, sin mencionar la de tantas otras especies. Se estima que el 95% de nuestros alimentos se producen en el suelo. Los suelos sanos producen alimentos sanos. La calidad del suelo está directamente ligada a la cantidad y la calidad de los alimentos que en él se producen_{[[Healthy soils for healthy life]]}.
+
+  #+begin_quote
+No importa cuanta riqueza, educación, y dinero tengamos, nuestros hijos no podrán vivir bien a menos que restauremos el suelo y el agua. Un planeta consciente, es el único camino hacia adelante. -- /Jagadish Vasudev, Sadhguru./
+  #+end_quote
+
+* Objetivos
+
+Debemos legar a las futuras generaciones un planeta en mejores condiciones de las que tenía cuando lo recibimos y dar claridad en la dirección que debemos seguir para que nuestra existencia aquí no solo sea sustentable sino favorable a la naturaleza. Dejar nuestro papel actual de dominadores del planeta y convertirnos en sus guardianes.
+
+Para ello nos hemos planteado los siguientes objetivos estratégicos:
+
+- Crear conciencia sobre la importancia del suelo y las formas sencillas con que puede mantenérsele sano, al conservar en él un hábitat adecuado para la biodiversidad que lo conforma, como serían 1) perturbarlo lo menos posible (minimizar la labranza), 2) cultivar en él la mayor variedad de especies de plantas como sea posible y práctico, 3) mantener plantas vivas en él siempre que sea posible y 4) mantenerlo cubierto todo el tiempo, de preferencia con materia orgánica_{[[AR - A practical approach to improve Soil Health]]}.
+
+- Crear conciencia de que las prácticas de la agricultura convencional actual están dentro de las actividades humanas mas nocivas para el medio ambiente y la vida en general. Por ejemplo, para muchos es sorpresa que una actividad tan común y antigua como la labranza (arar los suelos) sea culpable de graves problemas como la erosión, la perdida de capacidad de retención de agua y la emisión a la atmósfera de grandes cantidades de dióxido de carbono_{[[Agricultura Convencional]]}; y que el uso indiscriminado de fertilizantes y otras prácticas humanas esté provocando un incremento alarmante de "zonas muertas" en los mares_{[[Dead Zones]]}; y que los pesticidas y herbicidas no solo terminan con la vida en los ecosistemas sino también afectan al micro-bioma en humanos y animales, que nos permite entre otras muchas cosas, digerir la comida, tener un sistema inmunológico efectivo y hasta reproducirnos_{[[Pesticides and the Microbiome]]}.
+
+- Presentar a la agricultura regenerativa como la alternativa que hace posible la producción de alimentos altamente nutritivos en cantidades mas que suficientes para satisfacer las demandas de la creciente población al mismo tiempo que frena y revierte los efectos negativos de emisiones provocadas por la humanidad a la atmósfera. Un enfoque científico y sistémico en la agricultura hace esto posible_{[[Regenerative agriculture for food and climate]]} y hay evidencia de incrementos sorprendentes en la productividad_{[[Singing Frogs Farm]]}. Esta alternativa permite incluso una adopción gradual para la transformación que urgentemente necesitamos.
+
+Ésto a llevarse a cavo en escuelas, gobierno, con agricultores y en redes sociales.  
+
+Buscaremos además contribuir a la transformación necesaria con lo siguiente:
+
+- Haciendo disponible un modelo reproducible en las ciudades para que parques y jardines (nuevos y existentes) sean bosques y huertos (privados o comunitarios), fundamentados en la premisa de que "la salud del suelo, las plantas, animales, humanos y el medio ambiente, es una e indivisible"_{[[Regenerative agriculture for food and climate]]}, de modo que desde el ámbito urbano, podamos comenzar a saldar la deuda que los humanos tenemos para con nosotros y el resto del planeta.
+
+- Ofreciendo asesoría para que pequeños agricultores tengan acceso a la información y técnicas que les permitan gradualmente transformar sus operaciones hacia la agricultura regenerativa, utilizando los pilares de ésta de modo que puedan crear planes hechos a la medida de su entorno y recursos disponibles. De nueva cuenta la agricultura debe poner el énfasis en la salud del suelo como principio del ciclo de productividad y bienestar, en vez de centrarse en las semillas, el uso indiscriminado de fertilizantes, pesticidas, herbicidas y otros insumos energéticos, para trabajar con y a favor de la vida y la naturaleza, con fundamentos científicos_{[[Agricultura Regenerativa]]}, y no en su contra como se hace ahora_{[[Agricultura Convencional]]}.
+
+* Referencias
+
+Las siguientes citas y su bibliografía están agrupadas por el tema desde el cuál se les refiere por lo cual, una cita y/o documento puede encontrarse en uno o mas grupos.
+
+Por lo general las citas se encuentran documentadas sin traducción.
+
+** Agricultura Convencional
+
+Sobre el Impacto de la Agricultura Convencional (AC) en el medio ambiente y la vida en general. La AC está conforma por diversas prácticas comunes en de la agricultura actual para lograr su meta que es maximizar la producción de alimentos a corto plazo y se caracterizan por un enfoque en las semillas y el uso indiscriminado de fertilizantes así como pesticidas, herbicidas y otros insumos energéticos.
+
+- The degradation of soils from unsustainable agriculture and other development has released billions of tons of carbon into the atmosphere: [[https://e360.yale.edu/features/soil_as_carbon_storehouse_new_weapon_in_climate_fight][Judith D. Schwartz - Soil as carbon storehouse: New weapon in climate fight]].
+- Many cultivated soils have lost 50–70% of their original organic carbon: [[https://www.american.edu/sis/centers/carbon-removal/upload/icrlp_fact_sheet_soil_carbon_2020_update.pdf][AU - Soil carbon sequestration fact sheet]]
+- Tilling the soil is the equivalent of an earthquake, hurricane, tornado, and forest fire occurring simultaneously to the world of soil organisms. Simply stated, tillage is bad for the soil: [[https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_030943.pdf][USDA - Farming in the 21st Century, A practical approach to improve Soil Health]]
+*** Dead Zones
+Worldwide, there are now some 146 coastal dead zones. Since the 1960s, according to a report by the United Nations Environment Programme (UNEP), Global Environment Outlook Year Book 2003, the number of dead zones has doubled with each passing decade. ... The complex chain of events begins not in the sea, but on land. Farmers often overfertilize their fields. The excess fertilizer, laden with nutrients like nitrogen, washes into creeks and rivers, where it's eventually carried into coastal bays and the open sea: [[https://academic.oup.com/bioscience/article-pdf/55/7/552/26896983/55-7-552.pdf][Dead Zones Spreading in World Oceans]]
+*** Pesticides and the Microbiome
+Pesticides can affect various parameters of the animal microbiome, such as the taxonomic composition of bacteria, bacterial biodiversity, and bacterial ratios and modify the microbiome of various organisms from insects to mammals. Pesticide induced changes in the microbiome reducing the animal’s immunity: [[https://www.mdpi.com/2077-0472/10/3/79/pdf][The Effect of Pesticides on the Microbiome of Animals]].
+
+** Agricultura Regenerativa
+
+Sobre la Agricultura Regenerativa (AR): Una forma alternativa de producción de alimentos que además puede tener impacto positivo en el medio ambiente y las sociedades. Su meta es una producción y rendimiento sustentable a largo plazo. Su enfoque se centra en la salud del suelo.
+
+*** Judith D. Schwartz
+Freelance writer based in southern Vermont who has written on ecology and economics for Scientific American, Conservation, Time, and Pacific Standard: [[https://www.judithdschwartz.com/][Judith D. Schwartz]]
+*** Rattan Lal
+Científico del suelo Nacido el 5 de Septiembre de 1944. Su trabajo se enfoca en la agricultura regenerativa a través de la cual el suelo puede resolver problemas globales como lo son el cambio climático, la seguridad alimentaria y la del agua.
+
+Ha sido premiado con el "2019 Japan Prize 'for the sustainable soil management for global food security and mitigation of climate change.'" el reconocido "World Food Prize-2020".
+
+Funge como:
++ Director, CFAES Dr. Rattan Lal Carbon Management and Sequestration Center (C-MASC)
++ Distinguished University Professor of Soil Science
++ Adjunct Professor, University of Iceland, Reykjavík, Iceland
++ Adjunct Professor, Indian Agricultural Research Institute (IARI), New Delhi, India
++ Chair in Soil Science and Goodwill Ambassador for Sustainable Development Issues, Inter-American Institute for Cooperation on Agriculture (IICA), San José, Costa Rica
+[[https://senr.osu.edu/our-people/rattan-lal][SENR - Rattan Lal]]
+- Entrevista por el /regenerativeagriculturepodcast/ : [[http://regenerativeagriculturepodcast.com/the-role-of-carbon-in-the-soil-with-rattan-lal][Lal and the role of carbon in the soil]].
+  
+*** Regenerative agriculture for food and climate
+System-based RA reconciles the need of producing adequate and nutritious food with the necessity of restoring the environment, making farming a solution to environmental issues: [[https://www.jswconline.org/content/jswc/early/2020/07/31/jswc.2020.0620A.full.pdf][Journal of Soil and Water Conservation August 2020]]
+*** Singing Frogs Farm
+El caso de /Singing Frogs Farm/ es una muestra de implementacion de /Agricultura Regenerativa/ que ha demostrado ventajas de hasta 10 veces mas en producción que la agricultura convencional, y sus prácticas de uso de materia orgánica y producción intensivas, lejos de liberar CO2 a la atmósfera contribuyen a secuestrarlo. Ésto se logra al poner la atención en el suelo, la materia orgánica y el ecosistema de forma integral;
+- Sitio de web: [[http://www.singingfrogsfarm.com/][Singing Frogs Farm web site]]
+- On Singing Frogs Farm, a relatively minuscule, 8-acre operation in Sebastopol, California, Paul Kaiser says he is grossing more than $100,000 [USD] an acre just by harvesting vegetables ([[https://craftsmanship.net/the-drought-fighter/][the drought fighter]]).
+*** AR - A practical approach to improve Soil Health
+Managing for soil health can be accomplished by disturbing the soil as little as possible, growing as many different species of plants as practican, keeping living plants in the soil as often as possible, and keeping the soil covered all the time: [[https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_030943.pdf][USDA - Farming in the 21st century]].
+
+** Cambio Climático
+- Uniting the world to tackle climate change: [[https://ukcop26.org/][COP26 home page]]
+- The degradation of soils from unsustainable agriculture and other development has released billions of tons of carbon into the atmosphere. But new research shows how effective land restoration could play a major role in sequestering CO2 and slowing climate change: [[https://e360.yale.edu/features/soil_as_carbon_storehouse_new_weapon_in_climate_fight][Judith D. Schwartz - Soil as carbon storehouse: New weapon in climate fight]]
+*** From the ground up - Debate
+Soil health for climate change mitigation and food system
+transformation: [[https://www.iica.int/en/press/news/experts-issue-warning-cop-26-soil-care-and-health-must-be-part-global-climate-change][Debate notes]] and [[https://www.youtube.com/watch?v=9HdN-AyUb_I][video]]
+*** Soil Carbon Storage
+Total C in terrestrial ecosystems is approximately 3170 gigatons (GT; 1 GT = 1 petagram = 1 billion metric tons). Of this amount, nearly 80% (2500 GT) is found in soil: [[https://www.nature.com/scitable/knowledge/library/soil-carbon-storage-84223790/][Soil Carbon Storage]].
+
+** Suelo Saludable
+*** Healthy soils for healthy life
+It is estimated that 95% of our food is directly or indirectly produced on our soils. ... Healthy soils produce healthy crops that in turn nourish people and animals. Indeed, soil quality is directly linked to food quality and quantity: [[https://www.fao.org/soils-2015/news/news-detail/en/c/277682/][2015 International Year of Soils]].
+*** Healthy soil, clean water
+Healthy, high-functioning soils store more water and exhibit higher rates of water infiltration. ... Healthy soils tighten nutrient cycles for nitrogen, phosphorus, and sulfur, creating highly-functional upland ecosystems while preventing stream eutrophication: [[https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1343614&ext=pdf][USDA - Healthy soil clean water]].
+*** What Soil Does - clean air
+Healthy soil gives us clean air and water, bountiful crops and forests, productive grazing lands, diverse wildlife, and beautiful landscapes. Soil does all this by performing five essential functions: [[https://www.nrcs.usda.gov/wps/portal/nrcs/detail/ny/soils/health/?cid=nrcseprd1197209#:~:text=Healthy%20soil%20gives%20us%20clean,snowmelt%2C%20and%20irrigation%20water%20goes.][USDA - What soil does]].
+*** A practical approach to improve Soil Health
+There are more individual organisms in a teaspoon of soil than there are people on earth: [[https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_030943.pdf][USDA - Farming in the 21st century]].
+
+
+
